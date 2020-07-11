@@ -1,0 +1,18 @@
+*** Notes from ServiceNow Scripting Lesson ***
+
+Client Script Types (Forms)
+
+A Client Script executes client-side script logic when forms are:
+ - Loaded
+ - Changed
+ - Submitted
+
+onLoad - execute script logic when forms are loaded. Use it to manipulate a form's appearance or content. Use onLoad sparingly as they impact form load times.
+
+onChange - execute script logic when a particular field's value changes. Use it to respond to field values of interest and to modify another field's value or attributes.
+
+
+onSubmit - execute script logic when a form is submitted. Use it to validate field values. Script can prevent writing to DB and return control to user.
+
+
+

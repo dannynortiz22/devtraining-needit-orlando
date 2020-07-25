@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="DITSC-Test-Data" max_length="40" name="x_58872_needit_ditsc_test_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=A" label="A" max_length="41" name="u_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AA" label="AA" max_length="40" name="u_aa" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="86" name="u_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="45" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GDU:" label="GDU:" max_length="40" name="u_gdu_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=H" label="H" max_length="40" name="u_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="155" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=J" label="J" max_length="40" name="u_j" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=K" label="K" max_length="40" name="u_k" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=L" label="L" max_length="40" name="u_l" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=M" label="M" max_length="40" name="u_m" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=N" label="N" max_length="40" name="u_n" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=O" label="O" max_length="40" name="u_o" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=P" label="P" max_length="40" name="u_p" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Q" label="Q" max_length="40" name="u_q" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=R" label="R" max_length="40" name="u_r" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=S" label="S" max_length="40" name="u_s" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Service Desk" label="Service Desk" max_length="40" name="u_service_desk" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=T" label="T" max_length="40" name="u_t" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=U" label="U" max_length="40" name="u_u" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=V" label="V" max_length="40" name="u_v" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=W" label="W" max_length="40" name="u_w" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=X" label="X" max_length="40" name="u_x" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Y" label="Y" max_length="40" name="u_y" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Z" label="Z" max_length="40" name="u_z" type="string"/>
+    </element>
+</database>
